@@ -6,7 +6,7 @@
 
 Bus reservation system is a minor project showing the implementation of OOP concept in C++ programing language. Here, the user can perform tasks like store bus information, reserve bus seat, show reservation information and show information regarding the buses available.
 
-Basically four features available in this project are:-
+# Features available in this project are:-
 
 1. Store Bus Information:
             This feature allows the user to store a typical bus information before it can be reserved by the passengers or shown in buses available. It includes the Unique bus ID no., driver’s name, arrival time, departure time, source and destination city of the bus.
@@ -19,8 +19,12 @@ Basically four features available in this project are:-
 
 4. Info of particular Bus:
             This feature allows the user to check bus information with the use of unique bus ID/number.
+            
+# Tech used:
+            C++ 
+            OOP 
 
-Sample Output:
+# Sample Output:
 
 ![Screenshot 2021-03-23 225034](https://user-images.githubusercontent.com/69247094/112190053-a59d5a00-8c2a-11eb-995f-14614b5e94aa.png)
 
