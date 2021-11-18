@@ -175,7 +175,7 @@ int main()
 
         case 4:
             display_bus_data(0);
-
+	    break;
         case 5:
             return 0;
 
